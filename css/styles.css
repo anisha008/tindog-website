@@ -1,0 +1,140 @@
+#title{
+  background-color: #ff4c68;
+  height:700px;
+  color:white;
+  height: 550px;
+}
+.mainint{
+  margin-top: 0 !important;
+}
+#features{
+  padding: 100px 18px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+}
+.dog{
+  font-family: 'Montserrat-Bold';
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.fa-check-circle:hover, .fa-bullseye:hover, .fa-heart:hover{
+  color:#ff4c68 !important;
+}
+.dog-p{
+  color: #8f8f8f;
+  font-size: 1rem;
+  margin-top: 10px;
+  font-family: 'Montserrat-Bold';
+}
+.nav-item{
+  padding: 0px 18px;
+  font-size: 20px;
+  font-family: 'Montserrat-light';
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+.navbar{
+  padding:0%;
+}
+h1{
+  font-family: 'Montserrat-Black';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.container-fluid{
+  padding: 3% 15%;
+  margin-top: 20px;
+  font-size: 24px;
+}
+.rotate30{
+    transform: rotate(30deg);
+    width:60%;
+    position: absolute;
+    right: 30%;
+}
+.row{
+  margin-top: 50px;
+}
+.download{
+  margin-top: 20px;
+  margin-right: 10px;
+}
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+  color: white;
+}
+.dogintro{
+  padding: 7% 15%;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.img-dog{
+  margin:20px 20px;
+  border-radius: 100%;
+  width:10%;
+}
+#press{
+  background-color: #ef8172;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.prees-img{
+  width: 15%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.colclass{
+  padding: 20px;
+}
+@media (max-width: 1018px){
+  #title{
+    text-align: center;
+  }
+  .rotate30{
+    position:static;
+    transform: rotate(0);
+  }
+}
+#cta{
+  text-align: center;
+  padding: 100px 100px;
+  background-color: #ff4c68;
+}
+.lastpart{
+  color:white;
+  font-family:  'Montserrat-Black';
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding: 20px 50px;
+}
+.button-2{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.butt{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#footer{
+  margin: 100px 10px;
+  text-align: center;
+  color:grey;
+}
+.foot{
+  margin: 0px;
+}
+.foocl{
+  padding-right: 10px;
+  padding-left: 10px;
+}
